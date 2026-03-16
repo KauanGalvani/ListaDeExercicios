@@ -1,4 +1,6 @@
-﻿Console.WriteLine("-------------------------------------");
+﻿Console.Clear();
+
+Console.WriteLine("-------------------------------------");
 Console.WriteLine("Vamos calcular os valor de a A, B e C");
 Console.WriteLine("-------------------------------------");
 
@@ -8,13 +10,13 @@ Console.WriteLine("Oque sera feito? este programa ira ler os valor A, B e C e ir
 
 Console.WriteLine("");
 
-Console.Write("Digite o valor de A");
+Console.Write("Digite o valor de A: ");
 double a = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Digite o valor de B");
+Console.Write("Digite o valor de B: ");
 double b = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("Digite o valor de C");
+Console.Write("Digite o valor de C: ");
 double c = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine("");
