@@ -34,8 +34,4 @@
     }
 }
 
-
-
-
 Console.ReadLine();
-

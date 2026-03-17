@@ -13,4 +13,13 @@
   <Project Path="Exercicio12.ConsoleApp/Exercicio12.ConsoleApp.csproj" />
   <Project Path="Exercicio13.ConsoleApp/Exercicio13.ConsoleApp.csproj" />
   <Project Path="Exercicio14.ConsoleApp/Exercicio14.ConsoleApp.csproj" />
+  <Project Path="Exercicio15.ConsoleApp/Exercicio15.ConsoleApp.csproj" />
+  <Project Path="Exercicio16.ConsoleApp/Exercicio16.ConsoleApp.csproj" />
+  <Project Path="Exercicio17.ConsoleApp/Exercicio17.ConsoleApp.csproj" />
+  <Project Path="Exercicio18.ConsoleApp/Exercicio18.ConsoleApp.csproj" />
+  <Project Path="Exercicio19.ConsoleApp/Exercicio19.ConsoleApp.csproj" />
+  <Project Path="Exercicio20.ConsoleApp/Exercicio20.ConsoleApp.csproj" />
+  <Project Path="Exercicio21.ConsoleApp/Exercicio21.ConsoleApp.csproj" />
+  <Project Path="Exercicio22.ConsoleApp/Exercicio22.ConsoleApp.csproj" />
+  <Project Path="Exercicio23.ConsoleApp/Exercicio23.ConsoleApp.csproj" />
 </Solution>
